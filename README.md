@@ -4,7 +4,9 @@ This was supposed to happen in 2 stages.
 2. Export assets from Blender3D to the new engine.
 Only the first addon for import into Blender3D has been implemented. The second addon for export to the engine was not made. If there is a request for this. Write, let's discuss.
 
+
 How work Addon?
+
 Step 1. Launch CryEngine1 (FarCryEditor). Select the desired group of StaticMeshes. Export to .grp
 
 Step 2. Run a Clean Project on CryEngine5. Import .grp from Step 1
