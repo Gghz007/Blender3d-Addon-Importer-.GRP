@@ -6,7 +6,8 @@ Step 3. Remove all unnecessary that was Imported. Should only be StaticMeshes
 
 Step 4 Select all StaticMeshes. Export to .grp
 
-Step 5. Place the FBX files in the "Objects" folder. From this folder, the addon will search for the necessary assets. From which you need to build a group in the Blender3d scene. Next to the "Objects" folder, we place the .grp file itself
+Step 5. Download Assets FC1. https://goo.su/Sxc2D
+Place the FBX files in the "Objects" folder. From this folder, the addon will search for the necessary assets. From which you need to build a group in the Blender3d scene. Next to the "Objects" folder, we place the .grp file itself
 
 Step 6 Launch Blender3d (3.2). We look that in the scene the world scale (Unit Scale) is Metric and the value is 1.0
 
