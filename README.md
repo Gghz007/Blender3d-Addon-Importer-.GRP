@@ -1,13 +1,3 @@
-At one time I encountered a problem. How can you move a large building? How to move a building that consists of hundreds of assets. Without rebuilding in the new engine?
-This was supposed to happen in 2 stages.
-1. Export assets to Blender3D.
-2. Export assets from Blender3D to the new engine.
-Only the first addon for import into Blender3D has been implemented. The second addon for export to the engine was not made. If there is a request for this. Write, let's discuss.
-
-
-
-
-
 How work Addon?
 
 Step 1. Launch CryEngine1 (FarCryEditor). Select the desired group of StaticMeshes. Export to .grp
